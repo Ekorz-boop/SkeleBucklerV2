@@ -6,6 +6,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Library
+/Packagecache
 
 # Unity generated meta files
 *.pidb.meta
